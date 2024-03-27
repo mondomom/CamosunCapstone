@@ -14,7 +14,7 @@
 
 * Wi-Fi enabled microcontroller to gather sensor information and send to the Raspberry Pi � suggest programming in MicroPython or Circuit Python
 
-###Suggested Steps
+### Suggested Steps
 
 * set up a web server running Flask web framework
 * use an ESP32 or Raspberry Pi Pico microcontroller with a BME280 attached to record temperature, humidity and barometric pressure
