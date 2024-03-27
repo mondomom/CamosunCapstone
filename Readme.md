@@ -1,23 +1,14 @@
----
-title: "Example of Using a Banner Image with RMarkdown"
-author: "Mondomom"
-date: "11 Mar 2024"
-output: 
-  html_document:
-    css: CSSBackgrounds.css
----
-
-==Weather Tracking/Web Project==
+## Weather Tracking/Web Project
 
 * Program a Raspberry Pi as a web server to track temperature, humidity and barometric pressure over time and display the results obtained from a wi-fi enabled microcontroller with a sensor attached
 
-=== Equipment needed ===
+### Equipment needed
 
 * Raspberry Pi 3B+ or 4B
 * ESP 32 or Raspberry Pi Pico W microcontroller
 * BME 280 temperature/pressure/humidity sensor
 
-=== Suggested Implementation ===
+## Suggested Implementation
 
 * Python web framework running on the Raspberry Pi with sqlite database or similar � suggest Flask
 
